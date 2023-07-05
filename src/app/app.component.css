@@ -1,8 +1,10 @@
 .card-header-color{
   background-color: rgb(7, 54, 54);
-  color: white;
+  color: rgb(255, 255, 255);
+  text-align: center;
 }
 .card-header-list-color{
-  background-color: rgb(122, 90, 41);
+  background-color: rgb(63, 78, 78);
   color: white;
+  text-align: center;
 }
